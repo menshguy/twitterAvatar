@@ -1,0 +1,17 @@
+{
+  "name": "twitteravatar",
+  "version": "1.0.0",
+  "description": "Updates twitter avatar on a schedule",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
